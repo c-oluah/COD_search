@@ -1,0 +1,82 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-21 02:27:06 +0300 (Thu, 21 Aug 2025) $
+#$Revision: 301840 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/4/34/43/4344311.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4344311
+loop_
+_publ_author_name
+'Lippert, B.'
+'Lock, C.J.L.'
+'Rosenberg, B.'
+'Zvagulis, M.'
+_publ_section_title
+;
+ Hydroxo-bridged platinum(II) complexes. 4. Crystal structure and
+ vibrational spectra of di-mue-hydroxo-bis(diammineplatinum(II carbonate
+ dihydrate, (N H3)2 Pt (O H)2 Pt (N H3)2 C O3 (H2 O)2
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              2971
+_journal_page_last               2974
+_journal_volume                  17
+_journal_year                    1978
+_chemical_formula_sum            'C H18 N4 O7 Pt2'
+_chemical_name_systematic        '((N H3)2 Pt (O H)2 Pt (N H3)2) (C O3) (H2 O)2'
+_space_group_IT_number           14
+_symmetry_space_group_name_Hall  '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 119.15
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   7.127
+_cell_length_b                   11.416
+_cell_length_c                   15.379
+_cell_volume                     1092.788
+_citation_journal_id_ASTM        INOCAJ
+_cod_data_source_file            Lippert_INOCAJ_1978_153.cif
+_cod_data_source_block           C1H18N4O7Pt2
+_cod_original_formula_sum        'C1 H18 N4 O7 Pt2'
+_cod_database_code               4344311
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y+1/2,-z+1/2
+-x,-y,-z
+x,-y-1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+_atom_site_attached_hydrogens
+O5 O-2 -0.03 0.433 0.642 1 0.0 0
+O7 O-2 0.346 0.405 0.521 1 0.0 2
+C1 C+4 0.026 0.326 0.64 1 0.0 0
+N3 N-3 0.211 -0.05 0.341 1 0.0 3
+Pt1 Pt+2 0.29283 -0.03823 0.66873 1 0.0 0
+O3 O-2 0.046 0.257 0.71 1 0.0 0
+O1 O-2 0.251 -0.114 0.542 1 0.0 1
+O6 O-2 0.193 0.608 0.613 1 0.0 2
+N1 N-3 0.289 -0.188 0.74 1 0.0 3
+N2 N-3 0.337 0.052 0.79 1 0.0 3
+O2 O-2 0.319 0.109 0.6 1 0.0 1
+N4 N-3 0.315 0.186 0.415 1 0.0 3
+Pt2 Pt+2 0.25955 0.03483 0.46728 1 0.0 0
+O4 O-2 0.058 0.291 0.569 1 0.0 0
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 168338329

@@ -1,0 +1,338 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-26 17:54:55 +0200 (Sat, 26 Mar 2016) $
+#$Revision: 180404 $
+#$URL: svn://www.crystallography.net/cod/cif/7/20/73/7207322.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7207322
+loop_
+_publ_author_name
+'Spencer, Elinor C.'
+'Ross, Nancy L.'
+'Angel, Ross J.'
+_publ_section_title
+;
+ The high pressure behaviour of the 3D copper carbonate framework
+ {[Cu(CO3)2](CH6N3)2}n
+;
+_journal_issue                   5
+_journal_name_full               'Journal of Materials Chemistry'
+_journal_page_first              2074
+_journal_paper_doi               10.1039/c2jm15206a
+_journal_volume                  22
+_journal_year                    2012
+_chemical_formula_moiety         'C2 Cu O6, 2(C H6 N3)'
+_chemical_formula_sum            'C4 H12 Cu N6 O6'
+_chemical_formula_weight         303.74
+_chemical_name_systematic
+;
+?
+;
+_space_group_IT_number           118
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_Hall  'P -4 -2n'
+_symmetry_space_group_name_H-M   'P -4 n 2'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL-97
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            4
+_cell_length_a                   8.8048(2)
+_cell_length_b                   8.8048(2)
+_cell_length_c                   12.0310(2)
+_cell_measurement_reflns_used    3535
+_cell_measurement_temperature    298(2)
+_cell_measurement_theta_max      30.0710
+_cell_measurement_theta_min      3.3795
+_cell_volume                     932.70(3)
+_computing_cell_refinement
+;
+CrysAlisPro, Agilent Technologies,
+Version 1.171.34.49 (release 20-01-2011 CrysAlis171 .NET)
+(compiled Jan 20 2011,15:58:25)
+;
+_computing_data_collection
+;
+CrysAlisPro, Oxford Diffraction Ltd.,
+Version 1.171.33.58 (release 29-01-2010 CrysAlis171 .NET)
+(compiled Jan 29 2010,16:49:25)
+;
+_computing_data_reduction
+;
+Average v2.2 (Angel, 2003) www.crystal.vt.edu/crystal
+Absorb Angel (2004) J. Appl. Cryst. 37:486-492
+;
+_computing_molecular_graphics
+;
+CrystalMaker V.2.0.6, CrystalMaker Software Ltd.'
+;
+_computing_structure_refinement
+;
+shelxl-97 (G.M.Sheldrick, 2008, Acta Cryst., A64,112)
+WinGX (L.J Farrugia, 1999, J. Appl. Cryst., 32, 837)
+;
+_diffrn_ambient_temperature      298(2)
+_diffrn_detector                 'Oxford Diffraction, Xcalibur1 CCD'
+_diffrn_measured_fraction_theta_full 0.629
+_diffrn_measured_fraction_theta_max 0.629
+_diffrn_measurement_device       '\k-geometry diffractometer'
+_diffrn_measurement_device_type  'Oxford Diffraction Xcalibur1'
+_diffrn_measurement_method       'phi and omega scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_probe          x-ray
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.948
+_diffrn_reflns_limit_h_max       12
+_diffrn_reflns_limit_h_min       -3
+_diffrn_reflns_limit_k_max       12
+_diffrn_reflns_limit_k_min       -12
+_diffrn_reflns_limit_l_max       17
+_diffrn_reflns_limit_l_min       -16
+_diffrn_reflns_number            7095
+_diffrn_reflns_reduction_process
+;
+Data averaged using Blessing (1987) criteria
+;
+_diffrn_reflns_theta_full        30.00
+_diffrn_reflns_theta_max         30.00
+_diffrn_reflns_theta_min         4.10
+_exptl_absorpt_coefficient_mu    2.379
+_exptl_absorpt_correction_T_max  0.304
+_exptl_absorpt_correction_T_min  0.217
+_exptl_absorpt_correction_type   gaussian
+_exptl_absorpt_process_details
+;
+Gaussian integration over a grid
+of 16 x 8 x 16 points = 2048 total grid points
+Based upon method of Burnham (1966)
+
+Data corrected for diamond-anvil cell absorption
+Note that exptl_absorpt_correction_tmin and _tmax
+the total correction factors applied to the intensities
+The individual factors are:
+range of dac transmission factors (min-max) 0.302 0.394
+range of gasket transmission (min-max) 0.972 1.000
+range of P media transmission (min-max) 1.000 1.000
+
+thickness of diamond anvil 1: 1.500 mm, mu = 0.2000 mm-1
+thickness of platten 1: 3.300 mm, mu = 0.0500 mm-1
+
+thickness of diamond anvil 2: 1.500 mm, mu = 0.2000 mm-1
+thickness of platten 2: 3.300 mm, mu = 0.0500 mm-1
+
+Gasket shadowing corrections were made based upon
+Gasket thickness = 145.0 microns, radius = 250.0 microns
+Gasket absorption coeff = 30.00 mm-1
+REFLECTION WAS CONSIDERED TOTALLY OBSCURED IF
+FRACTION CRYSTAL ILLUMINATED WAS LESS THAN 0.20
+
+Non-absorbing pressure medium
+;
+_exptl_crystal_colour            Blue
+_exptl_crystal_density_diffrn    2.163
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       Fragment
+_exptl_crystal_F_000             620
+_exptl_crystal_preparation
+;
+Crystal mounted in a diamond-anvil cell
+Crystal held under 3.95GPa of pressure
+;
+_exptl_crystal_size_max          0.34
+_exptl_crystal_size_mid          0.28
+_exptl_crystal_size_min          0.11
+_refine_diff_density_max         0.953
+_refine_diff_density_min         -1.135
+_refine_diff_density_rms         0.200
+_refine_ls_abs_structure_details 'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   0.7(2)
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.145
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     32
+_refine_ls_number_reflns         456
+_refine_ls_number_restraints     1
+_refine_ls_restrained_S_all      1.145
+_refine_ls_R_factor_all          0.1045
+_refine_ls_R_factor_gt           0.0884
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.1713P)^2^+1.1225P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.2416
+_refine_ls_wR_factor_ref         0.2658
+_reflns_number_gt                349
+_reflns_number_total             544
+_reflns_threshold_expression     'Fsqd > 2.0u(Fsqd)'
+_cod_data_source_file            c2jm15206a.txt
+_cod_data_source_block           Crystal_I_3.95GPa
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_symmetry_cell_setting' value 'Tetragonal' changed to 'tetragonal'
+according to /home/saulius/struct/CIF-dictionaries/cif_core.dic
+dictionary named 'cif_core.dic' version 2.4.1 from
+2010-06-29.
+
+'_diffrn_radiation_probe' value 'X-ray' changed to
+'x-ray' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from
+2010-06-29.
+
+'_exptl_absorpt_correction_type' value 'Gaussian'
+changed to 'gaussian' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana 
+;
+_cod_original_sg_symbol_H-M      P-4n2
+_cod_database_code               7207322
+#BEGIN Tags that were not found in dictionaries:
+_exptl_absorpt_correction_mu     2.379
+_diffrn_reflns_uneti/neti        0.004
+#END Tags that were not found in dictionaries
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'y, -x, -z'
+'-y, x, -z'
+'x+1/2, -y+1/2, z+1/2'
+'-x+1/2, y+1/2, z+1/2'
+'y+1/2, x+1/2, -z+1/2'
+'-y+1/2, -x+1/2, -z+1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_calc_flag
+_atom_site_refinement_flags
+Cu1 Cu 1.0000 0.5000 0.2500 0.0097(8) Uiso 1 4 d S
+Cu2 Cu 0.5000 0.5000 0.0000 0.0136(9) Uiso 1 4 d S
+C1 C 0.7655(15) 0.5452(14) 0.1159(10) 0.009(2) Uiso 1 1 d .
+O1 O 0.8905(13) 0.6135(13) 0.1338(7) 0.022(2) Uiso 1 1 d .
+O2 O 0.6850(12) 0.6060(12) 0.0324(7) 0.021(2) Uiso 1 1 d .
+O3 O 0.7145(13) 0.4414(13) 0.1742(7) 0.020(2) Uiso 1 1 d .
+C2 C 0.508(3) 0.754(3) 0.368(2) 0.054(2) Uiso 1 1 d D
+N1 N 0.579(2) 0.683(2) 0.2952(12) 0.054(2) Uiso 1 1 d D
+H1A H 0.6769 0.6863 0.2944 0.064 Uiso 1 1 calc R
+H1B H 0.5311 0.6320 0.2457 0.064 Uiso 1 1 calc R
+N2 N 0.358(2) 0.741(2) 0.3697(14) 0.054(2) Uiso 1 1 d D
+H2A H 0.3124 0.6858 0.3211 0.064 Uiso 1 1 calc R
+H2B H 0.3059 0.7887 0.4193 0.064 Uiso 1 1 calc R
+N3 N 0.572(2) 0.833(3) 0.4452(11) 0.054(2) Uiso 1 1 d D
+H3A H 0.6690 0.8397 0.4481 0.064 Uiso 1 1 calc R
+H3B H 0.5168 0.8795 0.4937 0.064 Uiso 1 1 calc R
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+N N 0.0061 0.0033 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+O O 0.0106 0.0060 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Cu Cu 0.3201 1.2651 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+O1 Cu1 O1 90.4(6) 7_545 2_765
+O1 Cu1 O1 178.5(7) 7_545 .
+O1 Cu1 O1 89.6(6) 2_765 .
+O1 Cu1 O1 89.6(6) 7_545 8_665
+O1 Cu1 O1 178.5(7) 2_765 8_665
+O1 Cu1 O1 90.4(6) . 8_665
+O2 Cu2 O2 92.37(11) . 3_565
+O2 Cu2 O2 156.5(5) . 2_665
+O2 Cu2 O2 92.37(11) 3_565 2_665
+O2 Cu2 O2 92.37(11) . 4_655
+O2 Cu2 O2 156.5(5) 3_565 4_655
+O2 Cu2 O2 92.37(11) 2_665 4_655
+O3 C1 O1 124.5(12) . .
+O3 C1 O2 121.9(12) . .
+O1 C1 O2 113.3(11) . .
+C1 O1 Cu1 107.7(8) . .
+C1 O2 Cu2 114.0(9) . .
+N1 C2 N3 124(2) . .
+N1 C2 N2 118(3) . .
+N3 C2 N2 118(3) . .
+C2 N1 H1A 120.0 . .
+C2 N1 H1B 120.0 . .
+H1A N1 H1B 120.0 . .
+C2 N2 H2A 120.0 . .
+C2 N2 H2B 120.0 . .
+H2A N2 H2B 120.0 . .
+C2 N3 H3A 120.0 . .
+C2 N3 H3B 120.0 . .
+H3A N3 H3B 120.0 . .
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+Cu1 O1 1.970(10) 7_545
+Cu1 O1 1.970(10) 2_765
+Cu1 O1 1.970(10) .
+Cu1 O1 1.970(10) 8_665
+Cu2 O2 1.917(10) .
+Cu2 O2 1.917(10) 3_565
+Cu2 O2 1.917(10) 2_665
+Cu2 O2 1.917(10) 4_655
+C1 O3 1.237(19) .
+C1 O1 1.273(17) .
+C1 O2 1.341(16) .
+C2 N1 1.24(4) .
+C2 N3 1.29(4) .
+C2 N2 1.32(3) .
+N1 H1A 0.8600 .
+N1 H1B 0.8600 .
+N2 H2A 0.8600 .
+N2 H2B 0.8600 .
+N3 H3A 0.8600 .
+N3 H3B 0.8600 .
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_site_symmetry_1
+O3 C1 O1 Cu1 10.4(16) .
+O2 C1 O1 Cu1 -175.6(9) .
+O1 Cu1 O1 C1 -175.4(8) 7_545
+O1 Cu1 O1 C1 93.9(9) 2_765
+O1 Cu1 O1 C1 -84.6(9) 8_665
+O3 C1 O2 Cu2 -8.1(16) .
+O1 C1 O2 Cu2 177.6(8) .
+O2 Cu2 O2 C1 -59.6(7) 3_565
+O2 Cu2 O2 C1 41.9(8) 2_665
+O2 Cu2 O2 C1 143.4(10) 4_655

@@ -1,0 +1,84 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-20 12:41:31 +0300 (Wed, 20 Aug 2025) $
+#$Revision: 301828 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/4/03/12/4031241.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4031241
+loop_
+_publ_author_name
+'Graziani, R.'
+'Bombieri, G.'
+'Forsellini, E.'
+_publ_section_title
+;
+ Crystal structure of tetra-ammonium uranyl tricarbonate
+;
+_journal_name_full
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry 
+(1972-)
+;
+_journal_page_first              2059
+_journal_page_last               2061
+_journal_volume                  1972
+_journal_year                    1972
+_chemical_formula_sum            'C3 H16 N4 O11 U'
+_chemical_name_systematic        '(N H4)4 (U O2) (C O3)3'
+_space_group_IT_number           15
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 96.45
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   10.68
+_cell_length_b                   9.38
+_cell_length_c                   12.85
+_cell_volume                     1279.144
+_citation_journal_id_ASTM        JCDTBI
+_cod_data_source_file            Graziani_JCDTBI_1972_1833.cif
+_cod_data_source_block           C3H16N4O11U1
+_cod_original_formula_sum        'C3 H16 N4 O11 U1'
+_cod_database_code               4031241
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z+1/2
+-x,-y,-z
+x,-y,z-1/2
+x+1/2,y+1/2,z
+-x+1/2,y+1/2,-z+1/2
+-x+1/2,-y+1/2,-z
+x+1/2,-y+1/2,z-1/2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+_atom_site_attached_hydrogens
+O4 O-2 0.5 0.1333 0.25 1 0.0 0
+O3 O-2 0.5706 0.4747 0.1665 1 0.0 0
+N1 N-3 0.6776 0.3359 0.3528 1 0.0 4
+O1 O-2 0.5389 0.9261 0.1715 1 0.0 0
+N2 N-3 0.6061 0.8289 0.5398 1 0.0 4
+C1 C+4 0.5 0.0038 0.25 1 0.0 0
+O2 O-2 0.5965 0.6797 0.0868 1 0.0 0
+O5 O-2 0.6743 0.4748 0.0258 1 0.0 0
+O6 O-2 0.6532 0.6945 0.3228 1 0.0 0
+C2 C+4 0.6171 0.54 0.091 1 0.0 0
+U1 U+6 0.5 0.6928 0.25 1 0.0 0
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 139094363

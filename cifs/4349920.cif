@@ -1,0 +1,181 @@
+#------------------------------------------------------------------------------
+#$Date: 2019-11-24 06:26:29 +0200 (Sun, 24 Nov 2019) $
+#$Revision: 236948 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/4/34/99/4349920.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4349920
+loop_
+_publ_author_name
+'Vismara, Rebecca'
+'Tuci, Giulia'
+'Mosca, Nello'
+'Domasevitch, Kostiantyn V.'
+'Di Nicola, Corrado'
+'Pettinari, Claudio'
+'Giambastiani, Giuliano'
+'Galli, Simona'
+'Rossin, Andrea'
+_publ_section_title
+;
+ Amino-decorated bis(pyrazolate) metal--organic frameworks for carbon
+ dioxide capture and green conversion into cyclic carbonates
+;
+_journal_issue                   2
+_journal_name_full               'Inorganic Chemistry Frontiers'
+_journal_page_first              533
+_journal_paper_doi               10.1039/C8QI00997J
+_journal_volume                  6
+_journal_year                    2019
+_chemical_formula_moiety         'C8.4 H10.6 Ni1 N5.8 O0.8'
+_chemical_formula_structural     'Ni (C6H3N5H2) (C3H7NO)0.8'
+_chemical_formula_sum            'C8.4 H10.6 N5.8 Ni O0.8'
+_chemical_formula_weight         264.30
+_space_group_crystal_system      orthorhombic
+_space_group_IT_number           74
+_space_group_name_Hall           '-I 2b 2'
+_space_group_name_H-M_alt        'I m m a'
+_audit_update_record
+;
+2018-09-06 deposited with the CCDC.
+2018-12-27 downloaded from the CCDC.
+;
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   14.9282(19)
+_cell_length_b                   6.91409(97)
+_cell_length_c                   9.6033(13)
+_cell_measurement_temperature    298
+_cell_volume                     991.2(2)
+_computing_cell_refinement       'TOPAS-Academic V6'
+_computing_data_collection       'Bruker XRD Commander'
+_computing_structure_refinement  'TOPAS-Academic V6'
+_computing_structure_solution    'TOPAS-Academic V6'
+_diffrn_ambient_temperature      298
+_diffrn_detector_type            'Bruker Lynxeye linear PSD'
+_diffrn_measurement_device_type  'Bruker AXS D8 Advance'
+_diffrn_radiation_monochromator  'Nickel filter'
+_diffrn_radiation_wavelength     CuK\a~1~
+_diffrn_source_target            Cu
+_diffrn_source_type              'sealed X-ray tube'
+_exptl_crystal_density_diffrn    1.730
+_exptl_crystal_density_meas      ?
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_F_000             544
+_pd_char_colour                  reddish
+_pd_instr_location               ' ?'
+_pd_meas_2theta_range_inc        0.02
+_pd_meas_2theta_range_max        105
+_pd_meas_2theta_range_min        5
+_pd_meas_number_of_points        5001
+_pd_meas_scan_method             step
+_pd_proc_2theta_range_inc        0.02
+_pd_proc_2theta_range_max        105
+_pd_proc_2theta_range_min        8
+_pd_proc_ls_background_function  'Chebyshev polynomial'
+_pd_proc_ls_profile_function     'fundamental parameters approach'
+_pd_proc_ls_prof_R_factor        0.009
+_pd_proc_ls_prof_wR_expected     0.004
+_pd_proc_ls_prof_wR_factor       0.012
+_pd_spec_mounting
+;
+ packed powder pellet
+;
+_pd_spec_mount_mode              reflection
+_pd_spec_shape                   flat_sheet
+_pd_spec_size_axial              15
+_pd_spec_size_equat              20
+_pd_spec_size_thick              0.1
+_refine_ls_extinction_method     none
+_refine_ls_hydrogen_treatment    fixed
+_refine_ls_matrix_type           fullcycle
+_refine_ls_number_parameters     39
+_refine_ls_number_restraints     0
+_refine_ls_shift/su_max          .01
+_refine_ls_structure_factor_coef Inet
+_cod_data_source_file            c8qi00997j2.cif
+_cod_data_source_block           added_by_encifer_CCDC1
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+data item '_exptl_crystal_density_meas' value 'not measured' was
+changed to '?' -- the value is perceived as not measured.
+
+Automatic conversion script
+Id: cif_fix_values 6909 2019-04-08 15:41:33Z antanas 
+;
+_cod_original_cell_volume        991.20(23)
+_cod_original_sg_symbol_H-M      Imma
+_cod_original_formula_sum        'C8.4 H10.6 Ni1 N5.8 O0.8'
+_cod_database_code               4349920
+loop_
+_symmetry_equiv_pos_as_xyz
+'-x, -y, -z'
+'-x, -y+1/2, z'
+'-x, y, z'
+'-x, y+1/2, -z'
+'-x+1/2, -y, z+1/2'
+'-x+1/2, -y+1/2, -z+1/2'
+'-x+1/2, y, -z+1/2'
+'-x+1/2, y+1/2, z+1/2'
+'x, -y, -z'
+'x, -y+1/2, z'
+'x, y, z'
+'x, y+1/2, -z'
+'x+1/2, -y, z+1/2'
+'x+1/2, -y+1/2, -z+1/2'
+'x+1/2, y, -z+1/2'
+'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+Ni Ni 4 0 0 0 1 0.010(77)
+C2 C 8 0.2109845 0.25 0.2077177 1 2.010(77)
+C1 C 16 0.1664111 0.4114737 0.159412 1 2.010(77)
+N1 N 16 0.09428969 0.3497962 0.08125169 1 2.010(77)
+N3 N 16 0.190524 0.6067995 0.1855439 0.25 2.010(77)
+H3a H 16 0.241587 0.6353667 0.2408825 0.25 2.010(77)
+H3b H 16 0.1555928 0.708908 0.1476878 0.25 2.010(77)
+H1 H 16 0.1825429 0.5421494 0.1768946 0.75 2.010(77)
+N4 N 8 0 0.11678 0.47836 0.3584(30) 9.0(14)
+C4 C 16 -0.03848103 -0.02432717 0.3840277 0.1792(15) 9.0(14)
+C5 C 16 0.09554497 0.1543753 0.4758661 0.1792(15) 9.0(14)
+C6 C 16 -0.05706393 0.2202919 0.5751862 0.1792(15) 9.0(14)
+O3 O 16 -0.02389063 0.341936 0.6565072 0.1792(15) 9.0(14)
+H6 H 16 -0.1295463 0.1917714 0.5770782 0.1792(15) 9.0(14)
+H51 H 16 0.1274124 0.06290038 0.3963114 0.1792(15) 9.0(14)
+H52 H 16 0.1073526 0.3075389 0.4509016 0.1792(15) 9.0(14)
+H53 H 16 0.1244553 0.1212476 0.5784906 0.1792(15) 9.0(14)
+H41 H 16 0.01479452 -0.08741687 0.3192309 0.1792(15) 9.0(14)
+H42 H 16 -0.07125647 -0.1394963 0.4444354 0.1792(15) 9.0(14)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_source
+C C 'International Tables for Crystallography (Vol. IV)'
+H H 'International Tables for Crystallography (Vol. IV)'
+Ni Ni 'International Tables for Crystallography (Vol. IV)'
+N N 'International Tables for Crystallography (Vol. IV)'
+O O 'International Tables for Crystallography (Vol. IV)'
+loop_
+_diffrn_radiation_type
+'Cu K\a'
+loop_
+_pd_proc_wavelength
+1.540562
+1.544390

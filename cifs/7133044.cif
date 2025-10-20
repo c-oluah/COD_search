@@ -1,0 +1,336 @@
+#------------------------------------------------------------------------------
+#$Date: 2024-07-05 16:13:23 +0300 (Fri, 05 Jul 2024) $
+#$Revision: 292770 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/7/13/30/7133044.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_7133044
+loop_
+_publ_author_name
+'Tao, Li'
+'Wang, He'
+'Liu, Xiao-Fei'
+'Ren, Wei-Min'
+'Lu, Xiao-Bing'
+'Zhang, Wen-Zhen'
+_publ_section_title
+;
+ Electrochemical ring-opening carboxylation of cyclic carbonate with
+ carbon dioxide.
+;
+_journal_issue                   44
+_journal_name_full               'Chemical communications (Cambridge, England)'
+_journal_page_first              5735
+_journal_page_last               5738
+_journal_paper_doi               10.1039/d4cc01695e
+_journal_volume                  60
+_journal_year                    2024
+_chemical_formula_moiety         'C18 H18 O4'
+_chemical_formula_sum            'C18 H18 O4'
+_chemical_formula_weight         298.32
+_space_group_crystal_system      monoclinic
+_space_group_IT_number           14
+_space_group_name_Hall           '-P 2yn'
+_space_group_name_H-M_alt        'P 1 21/n 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     dual
+_audit_creation_date             2022-04-02
+_audit_creation_method
+;
+Olex2 1.3
+(compiled 2020.11.12 svn.r5f609507 for OlexSys, GUI svn.r6408)
+;
+_audit_update_record
+;
+2023-01-06 deposited with the CCDC.	2024-05-08 downloaded from the CCDC.
+;
+_cell_angle_alpha                90
+_cell_angle_beta                 107.273(5)
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   5.8450(12)
+_cell_length_b                   17.181(3)
+_cell_length_c                   7.9441(15)
+_cell_measurement_reflns_used    3055
+_cell_measurement_temperature    292.15
+_cell_measurement_theta_max      27.38
+_cell_measurement_theta_min      2.37
+_cell_volume                     761.8(3)
+_computing_cell_refinement       'SAINT V8.40A (Bruker, 2019)'
+_computing_data_reduction        'SAINT V8.40A (Bruker, 2019)'
+_computing_molecular_graphics    'Olex2 1.3 (Dolomanov et al., 2009)'
+_computing_publication_material  'Olex2 1.3 (Dolomanov et al., 2009)'
+_computing_structure_refinement  'SHELXL 2018/3 (Sheldrick, 2015)'
+_computing_structure_solution    'SHELXT 2018/2 (Sheldrick, 2018)'
+_diffrn_ambient_temperature      292.15
+_diffrn_measured_fraction_theta_full 0.942
+_diffrn_measured_fraction_theta_max 0.933
+_diffrn_measurement_device_type  'Bruker APEX-II CCD'
+_diffrn_measurement_method       '\f and \w scans'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.1244
+_diffrn_reflns_av_unetI/netI     0.1576
+_diffrn_reflns_Laue_measured_fraction_full 0.942
+_diffrn_reflns_Laue_measured_fraction_max 0.933
+_diffrn_reflns_limit_h_max       7
+_diffrn_reflns_limit_h_min       -7
+_diffrn_reflns_limit_k_max       20
+_diffrn_reflns_limit_k_min       -20
+_diffrn_reflns_limit_l_max       9
+_diffrn_reflns_limit_l_min       -9
+_diffrn_reflns_number            5821
+_diffrn_reflns_point_group_measured_fraction_full 0.942
+_diffrn_reflns_point_group_measured_fraction_max 0.933
+_diffrn_reflns_theta_full        25.242
+_diffrn_reflns_theta_max         25.681
+_diffrn_reflns_theta_min         2.371
+_diffrn_source_current           50.0
+_diffrn_source_power             2.5
+_diffrn_source_voltage           50.0
+_diffrn_standards_number         0
+_exptl_absorpt_coefficient_mu    0.091
+_exptl_absorpt_correction_T_max  0.7456
+_exptl_absorpt_correction_T_min  0.2730
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+SADABS-2016/2 (Bruker,2016/2) was used for absorption correction.
+wR2(int) was 0.1825 before and 0.0891 after correction.
+The Ratio of minimum to maximum transmission is 0.3661.
+The \l/2 correction factor is Not present.
+;
+_exptl_crystal_density_diffrn    1.301
+_exptl_crystal_description       block
+_exptl_crystal_F_000             316
+_exptl_crystal_size_max          0.2
+_exptl_crystal_size_mid          0.15
+_exptl_crystal_size_min          0.1
+_refine_diff_density_max         0.511
+_refine_diff_density_min         -0.292
+_refine_diff_density_rms         0.058
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.099
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     101
+_refine_ls_number_reflns         1343
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      1.099
+_refine_ls_R_factor_all          0.2089
+_refine_ls_R_factor_gt           0.1231
+_refine_ls_shift/su_max          0.000
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.0472P)^2^+2.2300P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.2097
+_refine_ls_wR_factor_ref         0.2355
+_reflns_Friedel_coverage         0.000
+_reflns_number_gt                795
+_reflns_number_total             1343
+_reflns_threshold_expression     'I > 2\s(I)'
+_cod_data_source_file            d4cc01695e2.cif
+_cod_data_source_block           a_pl
+_cod_depositor_comments
+'Adding full bibliography for 7133043--7133046.cif.'
+_cod_database_code               7133044
+_shelx_shelxl_version_number     2018/3
+_shelx_space_group_comment
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+_shelx_estimated_absorpt_t_max   0.991
+_shelx_estimated_absorpt_t_min   0.982
+_olex2_refinement_description
+;
+1. Fixed Uiso
+ At 1.2 times of:
+  All C(H) groups
+ At 1.5 times of:
+  All C(H,H,H) groups
+2.a Ternary CH refined with riding coordinates:
+ C00N(H00N)
+2.b Aromatic/amide H refined with riding coordinates:
+ C003(H003), C007(H007), C00J(H00J), C00M(H00M), C013(H013)
+2.c Idealised Me refined as rotating group:
+ C00K(H00A,H00B,H00C)
+;
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+'-x+1/2, y+1/2, -z+1/2'
+'-x, -y, -z'
+'x-1/2, -y-1/2, z-1/2'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_site_symmetry_order
+_atom_site_calc_flag
+_atom_site_refinement_flags_posn
+_atom_site_refinement_flags_adp
+_atom_site_refinement_flags_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+O001 O -0.6469(6) 0.5752(2) -0.2868(5) 0.0574(12) Uani 1 1 d . . . . .
+O005 O -0.9710(6) 0.5510(2) -0.2102(4) 0.0510(11) Uani 1 1 d . . . . .
+C003 C -0.4035(12) 0.7277(3) 0.3288(7) 0.0544(17) Uani 1 1 d . . . . .
+H003 H -0.369844 0.772007 0.399014 0.065 Uiso 1 1 calc R U . . .
+C007 C -0.5830(11) 0.6791(4) 0.3380(7) 0.0564(17) Uani 1 1 d . . . . .
+H007 H -0.671959 0.690146 0.414564 0.068 Uiso 1 1 calc R U . . .
+C009 C -0.5097(12) 0.5976(3) 0.1226(7) 0.0499(16) Uani 1 1 d . . . . .
+C00G C -0.7393(9) 0.5508(3) -0.1844(6) 0.0337(12) Uani 1 1 d . . . . .
+C00J C -0.3267(12) 0.6459(4) 0.1126(7) 0.0554(17) Uani 1 1 d . . . . .
+H00J H -0.238910 0.634517 0.035399 0.066 Uiso 1 1 calc R U . . .
+C00K C -1.1189(9) 0.5837(4) -0.3728(7) 0.0536(16) Uani 1 1 d . . . . .
+H00A H -1.066414 0.635706 -0.385624 0.080 Uiso 1 1 calc R U . . .
+H00B H -1.282562 0.584814 -0.371480 0.080 Uiso 1 1 calc R U . . .
+H00C H -1.106373 0.552387 -0.469738 0.080 Uiso 1 1 calc R U . . .
+C00M C -0.6321(11) 0.6148(4) 0.2357(7) 0.0560(17) Uani 1 1 d . . . . .
+H00M H -0.753938 0.581613 0.244268 0.067 Uiso 1 1 calc R U . . .
+C00N C -0.6038(9) 0.5226(4) -0.0035(7) 0.061(2) Uani 1 1 d . . . . .
+H00N H -0.711513 0.491884 0.044248 0.073 Uiso 1 1 calc R U . . .
+C013 C -0.2735(11) 0.7114(4) 0.2174(8) 0.0568(17) Uani 1 1 d . . . . .
+H013 H -0.149453 0.744204 0.211729 0.068 Uiso 1 1 calc R U . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+O001 0.039(2) 0.090(3) 0.044(2) 0.026(2) 0.0123(18) 0.010(2)
+O005 0.026(2) 0.077(3) 0.044(2) 0.023(2) 0.0003(15) 0.0042(19)
+C003 0.083(5) 0.034(4) 0.035(3) -0.006(3) -0.001(3) 0.004(3)
+C007 0.066(4) 0.066(5) 0.036(3) -0.004(3) 0.013(3) 0.010(4)
+C009 0.093(5) 0.025(3) 0.028(3) -0.003(2) 0.012(3) -0.007(3)
+C00G 0.033(3) 0.036(3) 0.029(3) 0.001(2) 0.004(2) 0.006(2)
+C00J 0.077(4) 0.048(4) 0.047(4) 0.001(3) 0.026(3) 0.009(4)
+C00K 0.032(3) 0.075(4) 0.039(3) 0.010(3) -0.013(2) 0.005(3)
+C00M 0.076(4) 0.056(4) 0.033(3) -0.001(3) 0.011(3) -0.021(3)
+C00N 0.033(3) 0.097(5) 0.050(4) 0.043(4) 0.008(3) 0.013(3)
+C013 0.056(4) 0.053(4) 0.053(4) 0.006(3) 0.003(3) -0.016(3)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+O O 0.0106 0.0060 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+C00G O005 C00K 117.4(4) . . ?
+C007 C003 H003 120.0 . . ?
+C013 C003 H003 120.0 . . ?
+C013 C003 C007 120.0(6) . . ?
+C003 C007 H007 120.0 . . ?
+C00M C007 C003 120.0(6) . . ?
+C00M C007 H007 120.0 . . ?
+C00J C009 C00N 124.8(5) . . ?
+C00M C009 C00J 119.1(5) . . ?
+C00M C009 C00N 116.0(5) . . ?
+O001 C00G O005 123.8(4) . . ?
+O001 C00G C00N 123.8(5) . . ?
+O005 C00G C00N 112.2(4) . . ?
+C009 C00J H00J 120.1 . . ?
+C009 C00J C013 119.8(5) . . ?
+C013 C00J H00J 120.1 . . ?
+O005 C00K H00A 109.5 . . ?
+O005 C00K H00B 109.5 . . ?
+O005 C00K H00C 109.5 . . ?
+H00A C00K H00B 109.5 . . ?
+H00A C00K H00C 109.5 . . ?
+H00B C00K H00C 109.5 . . ?
+C007 C00M H00M 119.2 . . ?
+C009 C00M C007 121.6(6) . . ?
+C009 C00M H00M 119.2 . . ?
+C009 C00N H00N 109.1 . . ?
+C00G C00N C009 108.7(5) . . ?
+C00G C00N H00N 109.1 . . ?
+C00N C00N C009 106.2(6) 3_465 . ?
+C00N C00N C00G 114.4(6) 3_465 . ?
+C00N C00N H00N 109.1 3_465 . ?
+C003 C013 C00J 119.5(6) . . ?
+C003 C013 H013 120.2 . . ?
+C00J C013 H013 120.2 . . ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+O001 C00G 1.179(5) . ?
+O005 C00G 1.309(5) . ?
+O005 C00K 1.438(6) . ?
+C003 H003 0.9300 . ?
+C003 C007 1.359(8) . ?
+C003 C013 1.355(8) . ?
+C007 H007 0.9300 . ?
+C007 C00M 1.351(8) . ?
+C009 C00J 1.376(8) . ?
+C009 C00M 1.337(8) . ?
+C009 C00N 1.624(8) . ?
+C00G C00N 1.500(7) . ?
+C00J H00J 0.9300 . ?
+C00J C013 1.379(8) . ?
+C00K H00A 0.9600 . ?
+C00K H00B 0.9600 . ?
+C00K H00C 0.9600 . ?
+C00M H00M 0.9300 . ?
+C00N C00N 1.429(11) 3_465 ?
+C00N H00N 0.9800 . ?
+C013 H013 0.9300 . ?
+loop_
+_geom_torsion_atom_site_label_1
+_geom_torsion_atom_site_label_2
+_geom_torsion_atom_site_label_3
+_geom_torsion_atom_site_label_4
+_geom_torsion
+_geom_torsion_site_symmetry_1
+_geom_torsion_site_symmetry_2
+_geom_torsion_site_symmetry_3
+_geom_torsion_site_symmetry_4
+_geom_torsion_publ_flag
+O001 C00G C00N C009 77.1(7) . . . . ?
+O001 C00G C00N C00N -41.5(10) . . . 3_465 ?
+O005 C00G C00N C009 -97.7(5) . . . . ?
+O005 C00G C00N C00N 143.7(7) . . . 3_465 ?
+C003 C007 C00M C009 -0.8(9) . . . . ?
+C007 C003 C013 C00J 0.7(9) . . . . ?
+C009 C00J C013 C003 -0.3(9) . . . . ?
+C00J C009 C00M C007 1.2(9) . . . . ?
+C00J C009 C00N C00G -72.4(7) . . . . ?
+C00J C009 C00N C00N 51.1(8) . . . 3_465 ?
+C00K O005 C00G O001 -0.5(8) . . . . ?
+C00K O005 C00G C00N 174.3(5) . . . . ?
+C00M C009 C00J C013 -0.6(9) . . . . ?
+C00M C009 C00N C00G 103.4(6) . . . . ?
+C00M C009 C00N C00N -133.1(6) . . . 3_465 ?
+C00N C009 C00J C013 175.1(5) . . . . ?
+C00N C009 C00M C007 -174.8(5) . . . . ?
+C013 C003 C007 C00M -0.1(9) . . . . ?

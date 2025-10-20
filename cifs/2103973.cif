@@ -1,0 +1,434 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/2/10/39/2103973.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2103973
+loop_
+_publ_author_name
+'Pritchard, Robin Gavin'
+'Islam, Emran'
+_publ_section_title
+;
+ Sodium percarbonate between 293 and 100K
+;
+_journal_issue                   5
+_journal_name_full               'Acta Crystallographica Section B'
+_journal_page_first              596
+_journal_page_last               605
+_journal_paper_doi               10.1107/S0108768103012291
+_journal_volume                  59
+_journal_year                    2003
+_chemical_formula_moiety         'C1 H3 Na2 O6'
+_chemical_formula_sum            'C H3 Na2 O6'
+_chemical_formula_weight         157.01
+_chemical_name_systematic
+;
+ ?
+;
+_space_group_IT_number           41
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  'A 2 -2ab'
+_symmetry_space_group_name_H-M   'A b a 2'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_conform_dict_name         cif_core.dic
+_audit_conform_dict_version      2.2
+_audit_creation_method           'WinGX routine CIF_UPDATE'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   9.1830(10)
+_cell_length_b                   15.7450(10)
+_cell_length_c                   6.7300(10)
+_cell_measurement_reflns_used    20
+_cell_measurement_temperature    293(2)
+_cell_measurement_theta_max      0
+_cell_measurement_theta_min      0
+_cell_volume                     973.07(19)
+_computing_molecular_graphics    'Ortep-3 for Windows (Farrugia, 1997)'
+_computing_publication_material  'WinGX publication routines (Farrugia, 1999)'
+_computing_structure_refinement  'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution    'SHELXS-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature      293(2)
+_diffrn_measured_fraction_theta_full 0.955
+_diffrn_measured_fraction_theta_max 0.955
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           CuK\a
+_diffrn_radiation_wavelength     1.5418
+_diffrn_reflns_limit_h_max       11
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       16
+_diffrn_reflns_limit_k_min       0
+_diffrn_reflns_limit_l_max       8
+_diffrn_reflns_limit_l_min       0
+_diffrn_reflns_number            487
+_diffrn_reflns_theta_full        70.01
+_diffrn_reflns_theta_max         70.01
+_diffrn_reflns_theta_min         5.62
+_exptl_absorpt_coefficient_mu    3.45
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            colourless
+_exptl_crystal_density_diffrn    2.144
+_exptl_crystal_density_method    'not measured'
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             632
+_exptl_crystal_size_max          0.11
+_exptl_crystal_size_mid          0.08
+_exptl_crystal_size_min          0.04
+_refine_diff_density_max         0.176
+_refine_diff_density_min         -0.194
+_refine_ls_abs_structure_details 'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   0.0(4)
+_refine_ls_extinction_coef       0.0017(4)
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     SHELXL
+_refine_ls_goodness_of_fit_ref   1.159
+_refine_ls_hydrogen_treatment    mixed
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     110
+_refine_ls_number_reflns         486
+_refine_ls_number_restraints     7
+_refine_ls_restrained_S_all      1.178
+_refine_ls_R_factor_all          0.0317
+_refine_ls_R_factor_gt           0.0317
+_refine_ls_shift/su_max          0.003
+_refine_ls_shift/su_mean         0
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0468P)^2^+0.7182P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0858
+_refine_ls_wR_factor_ref         0.0858
+_reflns_number_gt                486
+_reflns_number_total             486
+_reflns_threshold_expression     >2sigma(I)
+_cod_data_source_file            na5004.cif
+_cod_data_source_block           carskap
+_cod_original_sg_symbol_Hall     '-C 2ac 2'
+_cod_original_sg_symbol_H-M      'C m c a'
+_cod_database_code               2103973
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y, z'
+'x+1/2, -y, z+1/2'
+'-x+1/2, y, z+1/2'
+'x, y+1/2, z+1/2'
+'-x, -y+1/2, z+1/2'
+'x+1/2, -y+1/2, z+1'
+'-x+1/2, y+1/2, z+1'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_occupancy
+_atom_site_type_symbol
+Na1 0.7503(3) 0.01083(7) 0.3223(5) 0.0288(4) Uani d . 1 Na
+Na2 0.4992(3) 0.2501(2) 0.3216(5) 0.0247(4) Uani d . 1 Na
+C1 0.7496(3) 0.33812(16) 0.0719(9) 0.0151(6) Uani d . 1 C
+O1 0.6769(2) 0.26793(12) 0.0794(9) 0.0224(5) Uani d . 1 O
+O2 0.6825(2) 0.40948(12) 0.0728(9) 0.0247(5) Uani d . 1 O
+O3 0.8894(2) 0.33478(12) 0.0773(10) 0.0245(5) Uani d . 1 O
+O11 0.9118(10) 0.1172(6) -0.0208(13) 0.0264(17) Uani d P 0.5 O
+O12 0.8451(12) 0.1394(6) 0.1670(14) 0.0284(19) Uani d P 0.5 O
+O21 0.8344(11) 0.1362(7) -0.0184(14) 0.0285(17) Uani d P 0.5 O
+O22 0.9087(10) 0.1086(6) 0.1710(14) 0.029(2) Uani d P 0.5 O
+O31 0.5199(15) 0.0261(6) 0.1648(16) 0.056(4) Uani d P 0.5 O
+O32 0.5449(13) 0.0321(6) 0.042(2) 0.051(3) Uani d PU 0.5 O
+H11 1.004 0.113 0.025 0.04 Uiso d P 0.5 H
+H12 0.788 0.188 0.125 0.04 Uiso d P 0.5 H
+H21 0.792 0.188 0.025 0.04 Uiso d P 0.5 H
+H22 1.01 0.11 0.125 0.04 Uiso d P 0.5 H
+H31 0.471 0.075 0.12 0.04 Uiso d P 0.5 H
+H32 0.479 0.079 0.045 0.04 Uiso d P 0.5 H
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 0.0365(7) 0.0224(7) 0.0274(7) -0.0031(11) 0.0027(5) -0.0061(15)
+Na2 0.0232(6) 0.0286(7) 0.0224(6) -0.0031(4) 0.0009(4) -0.0007(5)
+C1 0.0138(11) 0.0145(12) 0.0170(13) 0.0007(9) -0.003(2) -0.003(2)
+O1 0.0197(10) 0.0175(11) 0.0302(11) -0.0012(7) 0.0028(19) 0.007(2)
+O2 0.0217(10) 0.0179(10) 0.0346(12) 0.0007(7) -0.008(2) -0.003(3)
+O3 0.0167(9) 0.0207(11) 0.0362(12) 0.0007(7) -0.0056(19) -0.0025(19)
+O11 0.022(4) 0.023(4) 0.034(4) 0.012(3) -0.005(3) -0.010(3)
+O12 0.032(5) 0.015(4) 0.038(5) 0.001(4) 0.004(4) 0.017(4)
+O21 0.022(4) 0.032(5) 0.032(5) 0.007(4) -0.003(3) 0.004(4)
+O22 0.022(4) 0.029(5) 0.036(4) -0.006(4) -0.003(4) 0.011(3)
+O31 0.069(7) 0.033(6) 0.067(6) 0.021(6) -0.038(7) -0.014(4)
+O32 0.051(4) 0.025(4) 0.076(7) 0.015(3) 0.061(5) 0.024(4)
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Na Na 0.1353 0.1239 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+C C 0.0181 0.0091 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+O O 0.0492 0.0322 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0 0 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle
+O22 Na1 O21 . 4_655 81.6(3)
+O22 Na1 O31 . . 106.9(4)
+O21 Na1 O31 4_655 . 80.0(3)
+O22 Na1 O2 . 8_644 88.4(3)
+O21 Na1 O2 4_655 8_644 162.3(3)
+O31 Na1 O2 . 8_644 89.1(3)
+O22 Na1 O2 . 5_545 154.1(3)
+O21 Na1 O2 4_655 5_545 98.6(3)
+O31 Na1 O2 . 5_545 98.6(3)
+O2 Na1 O2 8_644 5_545 96.66(8)
+O22 Na1 O32 . 4_655 72.1(4)
+O21 Na1 O32 4_655 4_655 82.1(4)
+O31 Na1 O32 . 4_655 162.1(4)
+O2 Na1 O32 8_644 4_655 108.7(4)
+O2 Na1 O32 5_545 4_655 82.2(3)
+O22 Na1 O12 . . 18.1(3)
+O21 Na1 O12 4_655 . 67.70(17)
+O31 Na1 O12 . . 92.5(4)
+O2 Na1 O12 8_644 . 99.2(3)
+O2 Na1 O12 5_545 . 160.8(3)
+O32 Na1 O12 4_655 . 82.5(3)
+O22 Na1 O11 . 4_655 96.54(19)
+O21 Na1 O11 4_655 4_655 18.1(2)
+O31 Na1 O11 . 4_655 65.6(3)
+O2 Na1 O11 8_644 4_655 154.6(3)
+O2 Na1 O11 5_545 4_655 89.7(3)
+O32 Na1 O11 4_655 4_655 96.5(4)
+O12 Na1 O11 . 4_655 80.5(3)
+O22 Na1 O32 . . 92.8(3)
+O21 Na1 O32 4_655 . 89.1(3)
+O31 Na1 O32 . . 18.3(3)
+O2 Na1 O32 8_644 . 76.8(2)
+O2 Na1 O32 5_545 . 113.1(2)
+O32 Na1 O32 4_655 . 163.5(4)
+O12 Na1 O32 . . 81.2(4)
+O11 Na1 O32 4_655 . 78.1(3)
+O22 Na1 O31 . 2_655 121.9(4)
+O21 Na1 O31 4_655 2_655 93.1(4)
+O31 Na1 O31 . 2_655 18.3(4)
+O2 Na1 O31 8_644 2_655 79.8(2)
+O2 Na1 O31 5_545 2_655 84.1(2)
+O32 Na1 O31 4_655 2_655 164.6(5)
+O12 Na1 O31 . 2_655 109.3(4)
+O11 Na1 O31 4_655 2_655 76.5(3)
+O32 Na1 O31 . 2_655 29.04(17)
+O22 Na1 Na1 . 4_654 64.4(3)
+O21 Na1 Na1 4_655 4_654 116.8(3)
+O31 Na1 Na1 . 4_654 63.4(4)
+O2 Na1 Na1 8_644 4_654 45.57(14)
+O2 Na1 Na1 5_545 4_654 134.50(14)
+O32 Na1 Na1 4_655 4_654 127.9(4)
+O12 Na1 Na1 . 4_654 64.7(3)
+O11 Na1 Na1 4_655 4_654 115.2(3)
+O32 Na1 Na1 . 4_654 45.38(19)
+O31 Na1 Na1 2_655 4_654 67.3(2)
+O22 Na1 Na1 . 4_655 115.7(3)
+O21 Na1 Na1 4_655 4_655 63.2(3)
+O31 Na1 Na1 . 4_655 116.4(3)
+O2 Na1 Na1 8_644 4_655 134.50(15)
+O2 Na1 Na1 5_545 4_655 45.43(14)
+O32 Na1 Na1 4_655 4_655 52.3(4)
+O12 Na1 Na1 . 4_655 115.4(3)
+O11 Na1 Na1 4_655 4_655 64.7(3)
+O32 Na1 Na1 . 4_655 134.4(2)
+O31 Na1 Na1 2_655 4_655 112.5(2)
+Na1 Na1 Na1 4_654 4_655 179.82(19)
+O1 Na2 O3 . 7_454 83.0(2)
+O1 Na2 O1 . 6_655 178.0(3)
+O3 Na2 O1 7_454 6_655 98.65(15)
+O1 Na2 O3 . 4_655 97.84(15)
+O3 Na2 O3 7_454 4_655 178.7(3)
+O1 Na2 O3 6_655 4_655 80.4(2)
+O1 Na2 O12 . 7_454 91.3(3)
+O3 Na2 O12 7_454 7_454 82.0(3)
+O1 Na2 O12 6_655 7_454 90.1(3)
+O3 Na2 O12 4_655 7_454 98.9(3)
+O1 Na2 O11 . 4_655 99.8(2)
+O3 Na2 O11 7_454 4_655 87.7(2)
+O1 Na2 O11 6_655 4_655 79.2(3)
+O3 Na2 O11 4_655 4_655 91.2(3)
+O12 Na2 O11 7_454 4_655 163.9(4)
+O1 Na2 O22 . 7_454 81.2(2)
+O3 Na2 O22 7_454 7_454 94.5(3)
+O1 Na2 O22 6_655 7_454 99.8(2)
+O3 Na2 O22 4_655 7_454 86.6(3)
+O12 Na2 O22 7_454 7_454 17.1(2)
+O11 Na2 O22 4_655 7_454 177.7(4)
+O1 Na2 O21 . 4_655 87.8(2)
+O3 Na2 O21 7_454 4_655 98.6(3)
+O1 Na2 O21 6_655 4_655 90.9(3)
+O3 Na2 O21 4_655 4_655 80.5(3)
+O12 Na2 O21 7_454 4_655 178.8(5)
+O11 Na2 O21 4_655 4_655 17.3(2)
+O22 Na2 O21 7_454 4_655 161.7(4)
+O1 Na2 Na2 . 6_654 45.21(14)
+O3 Na2 Na2 7_454 6_654 45.62(15)
+O1 Na2 Na2 6_655 6_654 136.83(18)
+O3 Na2 Na2 4_655 6_654 135.6(2)
+O12 Na2 Na2 7_454 6_654 65.3(3)
+O11 Na2 Na2 4_655 6_654 115.1(3)
+O22 Na2 Na2 7_454 6_654 67.0(2)
+O21 Na2 Na2 4_655 6_654 114.3(3)
+O1 Na2 Na2 . 6_655 134.30(19)
+O3 Na2 Na2 7_454 6_655 134.6(2)
+O1 Na2 Na2 6_655 6_655 43.66(13)
+O3 Na2 Na2 4_655 6_655 44.20(14)
+O12 Na2 Na2 7_454 6_655 115.1(3)
+O11 Na2 Na2 4_655 6_655 64.6(2)
+O22 Na2 Na2 7_454 6_655 113.3(3)
+O21 Na2 Na2 4_655 6_655 65.2(2)
+Na2 Na2 Na2 6_654 6_655 179.47(18)
+O2 C1 O3 . . 121.1(2)
+O2 C1 O1 . . 120.1(2)
+O3 C1 O1 . . 118.7(2)
+C1 O1 Na2 . . 119.6(4)
+C1 O1 Na2 . 6_654 115.0(3)
+Na2 O1 Na2 . 6_654 91.13(7)
+C1 O2 Na1 . 8_654 117.6(3)
+C1 O2 Na1 . 5_554 117.0(3)
+Na1 O2 Na1 8_654 5_554 89.00(7)
+C1 O3 Na2 . 7_554 118.2(4)
+C1 O3 Na2 . 4_654 115.3(3)
+Na2 O3 Na2 7_554 4_654 90.17(6)
+O21 O11 O22 . . 90.0(10)
+O21 O11 O12 . . 59.9(8)
+O22 O11 O12 . . 31.6(5)
+O21 O11 Na1 . 4_654 73.6(10)
+O22 O11 Na1 . 4_654 109.9(9)
+O12 O11 Na1 . 4_654 106.3(7)
+O21 O11 Na2 . 4_654 89.2(10)
+O22 O11 Na2 . 4_654 121.3(8)
+O12 O11 Na2 . 4_654 108.0(5)
+Na1 O11 Na2 4_654 4_654 125.8(4)
+O22 O12 O21 . . 94.0(14)
+O22 O12 O11 . . 63.3(10)
+O21 O12 O11 . . 32.2(6)
+O22 O12 Na1 . . 74.3(10)
+O21 O12 Na1 . . 111.4(9)
+O11 O12 Na1 . . 108.9(6)
+O22 O12 Na2 . 7_554 89.7(10)
+O21 O12 Na2 . 7_554 119.5(9)
+O11 O12 Na2 . 7_554 107.2(7)
+Na1 O12 Na2 . 7_554 127.5(5)
+O11 O21 O12 . . 87.9(12)
+O11 O21 O22 . . 59.3(8)
+O12 O21 O22 . . 30.2(6)
+O11 O21 Na1 . 4_654 88.3(11)
+O12 O21 Na1 . 4_654 120.6(9)
+O22 O21 Na1 . 4_654 106.8(7)
+O11 O21 Na2 . 4_654 73.5(10)
+O12 O21 Na2 . 4_654 109.9(9)
+O22 O21 Na2 . 4_654 106.5(6)
+Na1 O21 Na2 4_654 4_654 125.5(5)
+O12 O22 O11 . . 85.2(11)
+O12 O22 O21 . . 55.9(9)
+O11 O22 O21 . . 30.7(5)
+O12 O22 Na1 . . 87.6(10)
+O11 O22 Na1 . . 120.9(9)
+O21 O22 Na1 . . 105.9(7)
+O12 O22 Na2 . 7_554 73.2(10)
+O11 O22 Na2 . 7_554 107.1(8)
+O21 O22 Na2 . 7_554 103.2(6)
+Na1 O22 Na2 . 7_554 126.4(4)
+O32 O31 O31 . 2_655 102.1(13)
+O32 O31 O32 . 2_655 67.2(18)
+O31 O31 O32 2_655 2_655 38.0(6)
+O32 O31 Na1 . . 101.6(18)
+O31 O31 Na1 2_655 . 105.6(14)
+O32 O31 Na1 2_655 . 126.0(4)
+O32 O31 Na1 . 2_655 129.1(17)
+O31 O31 Na1 2_655 2_655 56.1(14)
+O32 O31 Na1 2_655 2_655 72.5(6)
+Na1 O31 Na1 . 2_655 127.4(5)
+O31 O32 O32 . 2_655 75.3(15)
+O31 O32 O31 . 2_655 40.0(13)
+O32 O32 O31 2_655 2_655 37.5(6)
+O31 O32 Na1 . 4_654 141.1(18)
+O32 O32 Na1 2_655 4_654 112.6(6)
+O31 O32 Na1 2_655 4_654 127.9(4)
+O31 O32 Na1 . . 60.1(16)
+O32 O32 Na1 2_655 . 110.3(6)
+O31 O32 Na1 2_655 . 78.4(6)
+Na1 O32 Na1 4_654 . 82.3(4)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+Na1 O22 . 2.350(9)
+Na1 O21 4_655 2.377(10)
+Na1 O31 . 2.379(12)
+Na1 O2 8_644 2.398(6)
+Na1 O2 5_545 2.403(6)
+Na1 O32 4_655 2.417(8)
+Na1 O12 . 2.439(9)
+Na1 O11 4_655 2.477(9)
+Na1 O32 . 2.688(17)
+Na1 O31 2_655 2.760(16)
+Na1 Na1 4_654 3.3650(5)
+Na1 Na1 4_655 3.3650(5)
+Na2 O1 . 2.324(6)
+Na2 O3 7_454 2.346(6)
+Na2 O1 6_655 2.389(6)
+Na2 O3 4_655 2.405(6)
+Na2 O12 7_454 2.471(10)
+Na2 O11 4_655 2.484(11)
+Na2 O22 7_454 2.582(11)
+Na2 O21 4_655 2.591(10)
+Na2 Na2 6_654 3.3650(5)
+Na2 Na2 6_655 3.3650(5)
+C1 O2 . 1.282(3)
+C1 O3 . 1.286(3)
+C1 O1 . 1.292(3)
+O1 Na2 6_654 2.389(6)
+O2 Na1 8_654 2.398(6)
+O2 Na1 5_554 2.403(6)
+O3 Na2 7_554 2.346(6)
+O3 Na2 4_654 2.405(6)
+O11 O21 . 0.772(10)
+O11 O22 . 1.298(7)
+O11 O12 . 1.447(12)
+O11 Na1 4_654 2.477(9)
+O11 Na2 4_654 2.484(11)
+O12 O22 . 0.760(11)
+O12 O21 . 1.253(7)
+O12 Na2 7_554 2.471(10)
+O21 O22 . 1.510(12)
+O21 Na1 4_654 2.377(10)
+O21 Na2 4_654 2.591(10)
+O22 Na2 7_554 2.582(11)
+O31 O32 . 0.861(12)
+O31 O31 2_655 0.90(2)
+O31 O32 2_655 1.368(8)
+O31 Na1 2_655 2.760(16)
+O32 O32 2_655 1.30(2)
+O32 O31 2_655 1.368(8)
+O32 Na1 4_654 2.417(8)

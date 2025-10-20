@@ -1,0 +1,120 @@
+#------------------------------------------------------------------------------
+#$Date: 2025-08-19 13:01:59 +0300 (Tue, 19 Aug 2025) $
+#$Revision: 301802 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/2/10/67/2106739.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2106739
+loop_
+_publ_author_name
+'Voliotis, S.'
+'Rimsky, A.'
+_publ_section_title
+;
+ Etude structurale des carbonates complexes de cerium et de thorium. III.
+ Structure cristalline et moleculaire du pentacarbonatothorate de sodium
+ dodecahydrate, Na6 Th (C O3)5 (H2 O)12
+;
+_journal_issue                   11
+_journal_name_full               'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first              2615
+_journal_page_last               2620
+_journal_paper_doi               10.1107/S056774087500831X
+_journal_volume                  31
+_journal_year                    1975
+_chemical_formula_sum            'C5 H24 Na6 O27 Th'
+_chemical_name_systematic        'Na6 Th (C O3)5 (H2 O)12'
+_space_group_IT_number           2
+_symmetry_space_group_name_Hall  '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha                90.47
+_cell_angle_beta                 104.38
+_cell_angle_gamma                95.52
+_cell_formula_units_Z            2
+_cell_length_a                   9.6
+_cell_length_b                   9.92
+_cell_length_c                   13.64
+_cell_volume                     1251.739
+_citation_journal_id_ASTM        ACBCAR
+_cod_data_source_file            Voliotis_ACBCAR_1975_91.cif
+_cod_data_source_block           C5H24Na6O27Th1
+_cod_depositor_comments
+;
+ Marking attached hydrogen atoms.
+
+ Antanas Vaitkus,
+ 2016-12-23
+
+ Changing the z coordinate of atom 'C2' from '0.086' to '0.0086'
+ after consulting the original publication.
+
+ Antanas Vaitkus,
+ 2016-12-21
+;
+_cod_original_formula_sum        'C5 H24 Na6 O27 Th1'
+_cod_database_code               2106739
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+_atom_site_attached_hydrogens
+Th1 Th+4 0.2343 0.2828 0.2294 1 0.0 0
+Na1 Na+1 0.4075 0.8632 0.0484 1 0.0 0
+Na2 Na+1 0.1463 0.5897 0.0953 1 0.0 0
+Na3 Na+1 0.125 0.8983 0.1614 1 0.0 0
+Na4 Na+1 0.8194 0.8014 0.2252 1 0.0 0
+Na5 Na+1 0.8216 0.4504 0.4353 1 0.0 0
+Na6 Na+1 0.6111 0.1656 0.4979 1 0.0 0
+C1 C+4 0.4848 0.4272 0.1759 1 0.0 0
+C2 C+4 0.1053 0.2844 0.0086 1 0.0 0
+C3 C+4 0.2261 0.5314 0.348 1 0.0 0
+C4 C+4 0.3846 0.0528 0.3259 1 0.0 0
+C5 C+4 -0.0356 0.126 0.2526 1 0.0 0
+O1 O-2 0.4851 0.3066 0.2117 1 0.0 0
+O2 O-2 0.5887 0.4819 0.1432 1 0.0 0
+O3 O-2 0.3656 0.4833 0.1678 1 0.0 0
+O4 O-2 0.0471 0.2721 -0.0841 1 0.0 0
+O5 O-2 0.2188 0.2204 0.0516 1 0.0 0
+O6 O-2 0.0615 0.3597 0.0711 1 0.0 0
+O7 O-2 0.1302 0.5017 0.263 1 0.0 0
+O8 O-2 0.3206 0.4418 0.3753 1 0.0 0
+O9 O-2 0.2299 0.6345 0.4031 1 0.0 0
+O10 O-2 0.3219 0.0551 0.2317 1 0.0 0
+O11 O-2 0.445 -0.0449 0.3661 1 0.0 0
+O12 O-2 0.3794 0.1628 0.3786 1 0.0 0
+O13 O-2 0.0466 0.2159 0.3197 1 0.0 0
+O14 O-2 0.016 0.106 0.1761 1 0.0 0
+O15 O-2 -0.1498 0.0666 0.2637 1 0.0 0
+O16 O-2 0.8208 0.0499 -0.0075 1 0.0 2
+O17 O-2 0.7479 0.34 0.0397 1 0.0 2
+O18 O-2 0.6114 0.7417 0.0825 1 0.0 2
+O19 O-2 0.5633 0.0657 0.116 1 0.0 2
+O20 O-2 0.3408 0.7618 0.1962 1 0.0 2
+O21 O-2 0.8545 0.5572 0.2825 1 0.0 2
+O22 O-2 0.0632 0.8301 0.3159 1 0.0 2
+O23 O-2 0.6851 0.8115 0.3463 1 0.0 2
+O24 O-2 0.7068 0.2404 0.3616 1 0.0 2
+O25 O-2 0.6042 0.5683 0.419 1 0.0 2
+O26 O-2 0.8156 0.0076 0.5123 1 0.0 2
+O27 O-2 0.9567 0.6555 0.5093 1 0.0 2
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 PubChem 168308428
